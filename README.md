@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter 📱**
 
-- 👯 I’m building with friends an [Academic tool to be used to teach Encoders and Decoders](https://github.com/brunopozzebon/EncodeDecodeStepByStep)
+- 👯 I’m building with friends an [Academic tool to be used to teach Encoders and Decoders](https://github.com/EncodeDecodeStepByStep/EncodeDecodeStepByStep)
 
 - 🤝 I’m looking for collaboration with [Truco(a South Brazilian card game) with voice recognition](https://github.com/GustavoSTZ/TrucoDosGuri)
 
