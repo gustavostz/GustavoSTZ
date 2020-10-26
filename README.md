@@ -22,7 +22,6 @@
 <a href="https://codepen.io/gustavostz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gustavostz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stzgustavo" height="30" width="40" /></a>
 <a href="https://kaggle.com/gustavostz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="gustavostz" height="30" width="40" /></a>
-<a href="https://www.facebook.com/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="stzgustavo" height="30" width="40" /></a>
 <a href="https://www.instagram.com/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stzgustavo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="stzgustavo" height="30" width="40" /></a>
 </p>
