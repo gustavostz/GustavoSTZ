@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **stzgustavo@gmail.com**
 
+- 🍦 Fun Fact: My academic life started in a very different direction, my first semester in university was in Civil Engineering degree, but I realized that it wasn't for me, at least I learned to balance a huge pot of dessert! 😂
+
+ <img src="img/huge-dessert-pot.gif" alt="Huge dessert pot" style="padding-left: 10px"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gustavostz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gustavostz" height="30" width="40" /></a>
