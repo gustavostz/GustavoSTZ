@@ -19,7 +19,7 @@
 
 - 🍦 Fun Fact: My academic life started in a very different direction, my first semester in university was in Civil Engineering degree, but I realized that it wasn't for me, at least I learned to balance a huge pot of dessert! 😂
 
- <img src="img/huge-dessert-pot.gif" alt="Huge dessert pot"/>
+ <pre>    <img src="img/huge-dessert-pot.gif" alt="Huge dessert pot"/></pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
