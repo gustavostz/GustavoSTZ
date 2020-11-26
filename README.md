@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for collaboration with [Truco(a South Brazilian card game) with voice recognition](https://github.com/GustavoSTZ/TrucoDosGuri)
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/GustavoSTZ](https://github.com/GustavoSTZ)
+- 👨‍💻 All of my personal projects are available at [https://gustavostz.com/#portfolio](https://gustavostz.com/#portfolio)
 
 - 💬 Ask me about **Python, React, Flutter and Java(prefer to ask about Spring, because old technologies the solution/answer can be scary👻)**
 
