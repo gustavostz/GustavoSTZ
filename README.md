@@ -3,19 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavostz&label=Profile%20views&color=980eb4&style=plastic" alt="gustavostz" /> </p>
 
-- 🔭 I’m currently working on **Credit Card project CWI/BV**
-
-- 🌱 I’m currently learning **Flutter 📱**
+- 🔭 I’m currently working on **Instant Payment project CWI/BV called PIX**
 
 - 👯 I’m building with friends an [Academic tool to be used to teach Encoders and Decoders](https://github.com/EncodeDecodeStepByStep/EncodeDecodeStepByStep)
 
-- 🤝 I’m looking for collaboration with [Truco(a South Brazilian card game) with voice recognition](https://github.com/GustavoSTZ/TrucoDosGuri)
-
 - 👨‍💻 All of my personal projects are available at [https://gustavostz.com/#portfolio](https://gustavostz.com/#portfolio)
 
-- 💬 Ask me about **Python, React, Flutter and Java(prefer to ask about Spring, because old technologies the solution/answer can be scary👻)**
+- 💬 Ask me about **Java(thats include Spring ☺)**, but if you need some help, I can try to help you with Python, React or Javascript too
 
-- 📫 How to reach me **stzgustavo@gmail.com**
+- 📫 How to reach me **github-contact@gustavostz.com**
 
 - 🍦 Fun Fact: My academic life started in a very different direction, my first semester in university was in Civil Engineering degree, but I realized that it wasn't for me, at least I learned to balance a huge pot of dessert! 😂
 
