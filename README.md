@@ -4,7 +4,12 @@
 
 <h3>$${\color{Fuchsia}✨\ Work\ Status\ }$$</h3>
 
-Solving bugs and launching features as an ultra pro programmer:
+*<p align=center>Solving bugs and launching features as an ultra pro programmer</p>*
+
+<div align=center>
+  <img src="img/top-programmer-joke-gif.gif" alt="Huge dessert pot"/>
+</div>
+
 
 <h3>$${\color{Fuchsia}📊\ My\ Github\ Stats\ }$$</h3>
 
@@ -27,17 +32,33 @@ Solving bugs and launching features as an ultra pro programmer:
  <img src="img/huge-dessert-pot.gif" alt="Huge dessert pot"/>
 </div>
 
-- 📫 How to reach me **github-contact@gustavostz.com**
+<h3>$${\color{Fuchsia}📫\ Contacts}$$</h3>
 
+<div align=center>
+        <tr>
+            <th>
+                <a href="https://www.linkedin.com/in/gustavostz" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/gustavostz">
+                    <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
+                </a>
+            </th>
+            &nbsp;&nbsp;
+            <th>
+                <a href="https://www.github.com/gustavostz" target="_blank" rel="noopener noreferrer" title="github.com/gustavostz">
+                    <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
+                </a>
+            </th>
+            &nbsp;&nbsp;
+            <th>
+                <a href="https://gustavostz.com/" target="_blank" rel="noopener noreferrer" title="gustavostz.com">
+                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
+                </a>
+            </th>
+            &nbsp;&nbsp;
+            <th>
+                <a href="mailto:github-contact@gustavostz.com" target="_blank" rel="noopener noreferrer" title="github-contact@gustavostz.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                </a>
+            </th>
+        </tr>
+</div>
 
-
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/gustavostz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gustavostz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stzgustavo" height="30" width="40" /></a>
-<a href="https://kaggle.com/gustavostz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="gustavostz" height="30" width="40" /></a>
-<a href="https://www.instagram.com/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="stzgustavo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/stzgustavo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="stzgustavo" height="30" width="40" /></a>
-</p>
